@@ -1,0 +1,35 @@
+# WoW Forever News-Verlauf
+
+Automatisch gepflegter Verlauf bereits gemeldeter News-Punkte zu World of Warcraft Forever (Classic+). Neue Eintraege werden stuendlich per automatisiertem Recherche-Lauf ergaenzt.
+
+### 2026-09-16 14:51 UTC
+
+**Hinweis:** Dies ist der erste Recherche-Lauf (Repo/`history.md` waren vorher leer), daher sind alle unten stehenden Punkte "neu". Ein Grossteil der Detailinformationen zu den einzelnen Klassen stammt aus Sekundaer-/Fan-Quellen (diverse neue "wow-forever"-Guide-Seiten), die kurz nach der BlizzCon-Ankuendigung online gingen; einige Zahlenangaben (z. B. exakte Talent-Zaehlungen) sowie insbesondere die Magier-Detailangaben konnten nicht gegen eine offizielle Blizzard-Quelle verifiziert werden (Zugriff auf news.blizzard.com und wowhead.com war in diesem Lauf technisch nicht per Direktabruf moeglich). Als unsicher gekennzeichnete Punkte bitte mit Vorsicht behandeln.
+
+#### WoW Forever allgemein
+
+- **Ankuendigung auf der BlizzCon 2026 (12.09.2026):** Blizzard hat "World of Warcraft: Forever" (Community-Spitzname "Classic+") offiziell angekuendigt. Es handelt sich um einen neuen, dauerhaften Level-60-Spielmodus auf Basis der Vanilla-Welt, mit ueberarbeiteten/neuen Zonen, ueber 1.000 neuen Quests, neun Dungeons, neuen Raids sowie zusaetzlichen Rassen-Klassen-Kombinationen. Enthalten im bestehenden WoW-Abo, kein separater Kauf noetig. Quelle: [GameInformer](https://gameinformer.com/blizzcon-2026/2026/09/12/blizzard-announces-world-of-warcraft-forever-expanding-vanilla-wow-with), [Blizzard Watch](https://blizzardwatch.com/2026/09/12/world-warcraft-forever-long-speculated-classic-plus-unveiled-will-launch-worldwide-november-4-2026/).
+- **Release-Termin:** Weltweiter Launch am 04.11.2026, 15:00 Uhr PT. Quelle: [Blizzard Watch](https://blizzardwatch.com/2026/09/12/world-warcraft-forever-long-speculated-classic-plus-unveiled-will-launch-worldwide-november-4-2026/).
+- **Beta-Zeitraum:** Beta laeuft vom 17.09.2026 bis 21.10.2026, zunaechst nur PC, Charakter-Level-Cap in der Beta bei 30. Zugang entweder per kostenlosem, nicht garantiertem Opt-in ueber die offizielle Webseite, oder garantiert durch Kauf des "Skyborne Epic Pack" (59,99 $) bzw. der "Warcraft Forever Collection". Quelle: [Shacknews](https://www.shacknews.com/article/150720/how-to-sign-up-for-the-world-of-warcraft-forever-beta), [GameSpot](https://www.gamespot.com/articles/the-wow-forever-beta-starts-this-week-heres-how-to-get-access/), [Icy Veins](https://www.icy-veins.com/wow-forever/wow-forever-beta). Anmerkung: Stimmt mit dem in der Aufgabenstellung genannten Beta-Termin (Do. 17.09.2026) ueberein.
+- **Neue Rasse "Skyborne" und neue Rasse-Klasse-Kombinationen:** Neu spielbare Kombinationen umfassen u. a. Zwerg-Schamane, Ork-Magier, Troll-Hexenmeister, Gnom-Priester, Mensch-Jaeger sowie Forsaken/Untoter-Paladin. Quelle: [Wowhead (via Suche)](https://www.wowhead.com/forever/guide/new-race-class-combinations) — *Detailtreue unsicher, nicht direkt gegen die Originalseite verifizierbar.*
+- **Talentbaeume ueberarbeitet:** Alle Klassen erhalten reformierte Talentbaeume; zusaetzlich zu den bekannten 1-Punkt-Meilenstein-Talenten bei 11/21/31 Punkten kommt eine neue Reihe bei 16 Punkten hinzu. Einige klassenpraegende Vanilla-Buffs (u. a. Divine Spirit, Blessing of Kings, Improved Mark of the Wild) sollen jetzt standardmaessig (baseline) vorhanden sein. Design-Ziel laut Panel: weniger, aber bedeutsamere Talent-Entscheidungen statt kleiner "Fuell-Talente". Quelle: [Wowhead Talentrechner-News (via Suche)](https://www.wowhead.com/news/wow-forever-talent-calculator-now-live-382870). *Genaue Talent-Zaehlungen (z. B. "470 Talente") stammen aus Sekundaerquellen und sind unsicher.*
+
+#### Magier
+
+- Ueberarbeitung aller drei Baeume (Arcane, Fire, Frost); laut mehreren Fan-Guides bleiben die Rollen grundsaetzlich klassisch, werden aber um neue Faehigkeiten erweitert (u. a. Arcane Blast, Hot Streak, Fingers of Frost/Ice Lance-Mechanik genannt). **Unsicher:** Diese Angaben stammen ausschliesslich aus neu erschienenen Drittanbieter-Guides und aehneln stark bereits aus spaeteren WoW-Erweiterungen bekannten Talenten (z. B. Wrath of the Lich King). Es konnte keine offizielle Blizzard-Bestaetigung fuer diese konkreten Formulierungen gefunden werden — moeglich, dass hier bekannte spaetere Mechaniken wiederverwendet werden, es ist aber auch nicht auszuschliessen, dass die Quellen ungenau/spekulativ sind. Bitte vor Beta-Test gegenpruefen. Quelle: [Icy Veins (via Suche)](https://www.icy-veins.com/wow-forever/mage-class-overview).
+
+#### Druide
+
+- Balance-Baum erhaelt laut Panel-Zusammenfassung Verbesserungen bei periodischem Schaden/Heilung und Zauber-Kritchance sowie ein neues Talent "Genesis" (verstaerkt periodische Effekte). Skyborne-Druiden sollen eigene, rassenspezifische neue Druiden-Formen bekommen. Quelle: [Wowhead Talentrechner-News (via Suche)](https://www.wowhead.com/news/wow-forever-talent-calculator-now-live-382870). *Mittlere Verlaesslichkeit — Kernaussage (Balance-Fokus auf periodischen Schaden, neue Skyborne-Formen) erscheint plausibel und wird von mehreren Quellen genannt, Detailformulierungen aber unsicher.*
+
+#### Priester
+
+- Laut mehreren Guide-Quellen erhalten alle Priester-Specs neue Kern-Talente: Discipline bekommt Penance (Kanal-Zauber, offensiv oder heilend nutzbar) und Divine Aegis; Holy bekommt Prayer of Mending und Binding Heal; Shadow bekommt einen verlangsamenden Mind Flay. Der Shadow-Schadensbonus soll von 15% auf 10% sinken, dafuer soll es einen 50%-Manarabatt sowie einen Krit-Schadensbonus fuer Shadow-Zauber geben. **Unsicher:** Quellen sind ausschliesslich Fan-/Guide-Seiten, keine offizielle Blizzard-Bestaetigung gefunden; einige genannte Faehigkeiten (Penance, Prayer of Mending) sind aus spaeteren Erweiterungen bekannt und koennten hier wiederverwendet oder falsch zugeordnet sein.
+
+#### Krieger
+
+- Neue Faehigkeit "Spearing Strike" (Nahkampfangriff mit Bonusschaden gegen Riesen/Drachkin/berittene Ziele, entfernt Ziel vom Reittier) fuer alle Skillungen genannt. Arms soll Rend-getriggerte Overpower-Procs erhalten, Fury zuverlaessigere Off-Hand-Wut, Protection neue schildbasierte Schadens-/Bedrohungs-/Ausweich-Talente. Fury-Nerf erwaehnt: Bloodthirst-Schaden soll von 45% auf 35% des Angriffswerts sinken. Protection soll Donnerknall im Verteidigungshaltung nutzen koennen (einfacheres AoE-Tanken) und per Talent "Vanguard" auch Sturmangriff in Verteidigungshaltung. **Unsicher:** Auch hier ausschliesslich Fan-Guide-Quellen, keine offizielle Bestaetigung gefunden.
+
+#### Paladin
+
+- Alle Paladin-Skillungen erhalten laut Panel-Zusammenfassung ab Level 6 "Holy Strike" (sofortiger Waffenangriff mit Heilig-Schaden, 12 Sek. Abklingzeit). Protection bekommt ein neues Tank-Siegel, Holy neue Gruppenheilungs-Talente, Retribution ein insgesamt volleres Skillungs-Kit. Quelle: [Wowhead Talentrechner-News (via Suche)](https://www.wowhead.com/news/wow-forever-talent-calculator-now-live-382870). *Mittlere Verlaesslichkeit, Kernaussagen von mehreren Quellen unabhaengig genannt.*
