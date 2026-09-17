@@ -279,3 +279,27 @@ Automatisch gepflegter Verlauf bereits gemeldeter News-Punkte zu World of Warcra
 #### Paladin
 
 - **Neu: Weiteres Retribution-Talent "Champion of the Light" + Mechanik-Detail zu "Twist of Light":** Sekundaerquellen nennen ein bisher nicht gemeldetes Retribution-Talent "Champion of the Light": erhoeht Zauberschaden und Heilung um bis zu 33/66/100 % (je nach Rang) des Intellekts. Zusaetzlich wird die Funktionsweise des bereits gemeldeten Talents "Twist of Light" praezisiert: Wechselt man ein aktives Siegel gegen ein anderes aus, erzeugt dies ein "Echo", das den Effekt des alten Siegels einmalig auf den naechsten Nahkampftreffer anwendet, statt ihn wie in Classic ersatzlos zu verlieren (unterstuetzt aktives "Seal Twisting" als Spielstil). Laut Quelle erhaelt Retribution damit insgesamt die meisten komplett neuen Talente aller Skillungen ueber alle Forever-Klassen hinweg. **Unsicher:** Ausschliesslich Sekundaerquellen (u. a. Output Lag, Mobalytics), keine offizielle Blizzard-Bestaetigung gefunden. Quelle: [Output Lag](https://outputlag.com/news/world-of-warcraft-forever-reworks-talents-so-paladins-can-tank-and-group-heal/), [Mobalytics](https://mobalytics.gg/wow-forever/guides/paladin-class-overview).
+
+### 2026-09-17 08:02 UTC
+
+**Hinweis:** WebFetch auf news.blizzard.com und diversen Sekundaerquellen (u. a. mobalytics.gg) weiterhin durch die Netzwerk-Policy blockiert; Angaben stammen aus Suchergebnis-Snippets, nicht aus direkt gelesenem Volltext. Live-Q&A (10:30 Uhr PDT / ca. 17:30 UTC) und ein moeglicher Beta-Recap stehen zum Zeitpunkt dieses Laufs (08:02 UTC) noch ca. 9,5 Std. bevor. Fuer WoW Forever allgemein in diesem Lauf keine inhaltlich neuen, fuer die Klassentests relevanten Punkte gefunden (weitere Datamining-Funde betreffen nur optische Assets wie Weltkarten/Waffen-/Kreaturmodelle und decken sich mit bereits gemeldeten Themen).
+
+#### Magier
+
+- **Neu (Praezisierung zu "Frostfire Bolt" und erstmals Combustion-Detail):** Laut Mobalytics soll "Frostfire Bolt" fuer alle Magier baseline (ohne Talentpunkt) verfuegbar sein und Fire-/Frost-Spielweisen kombinierbar machen. "Hot Streak" funktioniert demnach anders als aus spaeteren Erweiterungen bekannt: Kritische Treffer mit qualifizierten Fire-Zaubern verkuerzen die Zauberzeit des naechsten "Pyroblast" um 25 % (bis zu 3-fach stapelbar), machen ihn aber nicht (wie sonst ueblich) sofort wirkend. Erstmals genannt wird zudem "Combustion", das nun bis zum vierten kritischen Treffer anhalten soll (statt drei). **Unsicher:** Ausschliesslich Sekundaerquelle, keine offizielle Blizzard-Bestaetigung gefunden; praezisiert/ergaenzt den bereits gemeldeten Frostfire-Bolt-Punkt (17.09. 05:03-UTC-Lauf) und die bislang nur als Talentname genannten Punkte "Hot Streak"/Fire-Baum. Quelle: [Mobalytics](https://mobalytics.gg/wow-forever/guides/mage-class-overview).
+
+#### Druide
+
+- **Neu (Praezisierung zu den 31-Punkte-Kapstein-Talenten):** Laut Mobalytics bleibt fuer Balance "Moonkin Form" das 31-Punkte-Kapstein-Talent (unveraendert), waehrend fuer Feral Combat neu "Berserk" das bisherige Kapstein-Talent "Leader of the Pack" ersetzt und fuer Restoration das bereits gemeldete "Wild Growth" (15:04-UTC-Lauf vom 16.09.) das bisherige Kapstein-Talent "Swiftmend" ersetzt. **Unsicher:** Ausschliesslich Sekundaerquellen (u. a. Mythicsim, Icy Veins), keine offizielle Blizzard-Bestaetigung gefunden; genaue Quell-URL der Einzelaussage nicht per Volltext verifizierbar (WebFetch blockiert), nur aus Suchergebnis-Snippet. Quelle: [Mythicsim](https://mythicsim.com/wow-forever/druid), [Icy Veins](https://www.icy-veins.com/wow-forever/druid-class-overview).
+
+#### Priester
+
+- **Neu: Zwei bisher nicht genannte Discipline-Talente:** Sekundaerquellen nennen "Power in Light" (Smite und Penance verursachen 2 % erhoehten Schaden gegen mit Holy Fire belegte Ziele) und "Twin Disciplines" (+1 % Schaden/Heilung fuer Sofortzauber) als neue Discipline-Talente, zusaetzlich zum bereits gemeldeten Penance. **Unsicher:** Ausschliesslich Sekundaerquellen, keine offizielle Blizzard-Bestaetigung gefunden. Quelle: [Icy Veins](https://www.icy-veins.com/wow-forever/priest-class-overview).
+
+#### Krieger
+
+- **Neu (Gesamt-Talentzaehlung erstmals beziffert):** Eine Sekundaerquelle beziffert die Krieger-Talentaenderungen erstmals konkret mit 11 komplett neuen und 30 veraenderten Talenten (alle 54 Talente aus bisherigem Forever-Material bestaetigt). **Unsicher:** Ausschliesslich Sekundaerquelle, keine offizielle Bestaetigung; Einzelpunkte (Weaponmaster, Baseline-Aenderungen) bereits gemeldet. Quelle: [Mobalytics](https://mobalytics.gg/wow-forever/guides/warrior-class-overview).
+
+#### Paladin
+
+- **Neu (weitere, abweichende Gesamt-Talentzaehlung):** Eine Sekundaerquelle nennt fuer Paladin nun "21 neue, 29 veraenderte, 13 entfernte" Talente – eine dritte, wiederum von den beiden bereits gemeldeten Zahlenangaben ("20 neu/25 veraendert", 15:04-UTC-Lauf 16.09.; "20 neu/12 entfernt", 00:03-UTC-Lauf 17.09.) abweichende Zaehlung. **Einordnung:** Verdeutlicht weiterhin uneinheitliche/unsichere Sekundaerquellen-Zaehlweisen ohne offizielle Bestaetigung der exakten Zahl. Quelle: [Zockify](https://www.zockify.com/forever/paladin/).
