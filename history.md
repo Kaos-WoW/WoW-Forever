@@ -303,3 +303,11 @@ Automatisch gepflegter Verlauf bereits gemeldeter News-Punkte zu World of Warcra
 #### Paladin
 
 - **Neu (weitere, abweichende Gesamt-Talentzaehlung):** Eine Sekundaerquelle nennt fuer Paladin nun "21 neue, 29 veraenderte, 13 entfernte" Talente – eine dritte, wiederum von den beiden bereits gemeldeten Zahlenangaben ("20 neu/25 veraendert", 15:04-UTC-Lauf 16.09.; "20 neu/12 entfernt", 00:03-UTC-Lauf 17.09.) abweichende Zaehlung. **Einordnung:** Verdeutlicht weiterhin uneinheitliche/unsichere Sekundaerquellen-Zaehlweisen ohne offizielle Bestaetigung der exakten Zahl. Quelle: [Zockify](https://www.zockify.com/forever/paladin/).
+
+### 2026-09-17 10:03 UTC
+
+**Hinweis:** WebFetch auf mobalytics.gg und news.blizzard.com in diesem Lauf weiterhin durch die Netzwerk-Policy blockiert; Angaben stammen aus Suchergebnis-Snippets, nicht aus direkt gelesenem Volltext. Live-Q&A (10:30 Uhr PDT / ca. 17:30 UTC) sowie der eigentliche Beta-Start stehen zum Zeitpunkt dieses Laufs (10:03 UTC) noch ca. 7,5 Std. bevor. Fuer WoW Forever allgemein sowie fuer Druide/Priester/Krieger/Paladin in diesem Lauf keine inhaltlich neuen Punkte gefunden (Suchergebnisse bestaetigen lediglich bereits gemeldete Themen wie Release-Termin 04.11., Ablauf "Beta startet nach Live-Q&A", Retail-CDN-Branch, Baer-Tank-Ueberarbeitung Mangle/Lacerate, Paladin-Blessings-Dauer, Arcane-Blast/Missile-Barrage-Werte). Nur ein neuer, kleinerer Einzelpunkt zu Magier gefunden.
+
+#### Magier
+
+- **Neu (kleinere Utility-Faehigkeit, unsicher):** Laut Mobalytics erhalten Magier in WoW Forever zusaetzlich eine neue Faehigkeit "Comprehend Scroll", mit der sich unuebersetzte/kryptische Schriftrollen-Questgegenstaende entziffern lassen. **Unsicher:** Ausschliesslich Sekundaerquelle (nur als Suchergebnis-Snippet vorliegend, Volltext-Fetch durch Netzwerk-Policy blockiert), keine offizielle Blizzard-Bestaetigung gefunden; wirkt wie eine reine Flavor-/Utility-Faehigkeit ohne erkennbare Rotations-Relevanz. Quelle: [Mobalytics](https://mobalytics.gg/wow-forever/guides/mage-class-overview).
