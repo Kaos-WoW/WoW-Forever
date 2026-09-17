@@ -130,3 +130,31 @@ Automatisch gepflegter Verlauf bereits gemeldeter News-Punkte zu World of Warcra
 #### Paladin
 
 - **Neu (Detailpraezisierung des bereits gemeldeten Tank-Siegels, offiziell bestaetigter Kernpunkt):** Blizzard hat offiziell bestaetigt, dass Schutz-Paladine in WoW Forever erstmals eine echte Taunt-Faehigkeit erhalten (in Classic nicht vorhanden). Konkret handelt es sich laut BlizzCon-Demo um ein neues Siegel "Seal of Fury": Ist dieses Siegel aktiv, erhaelt "Judgement" einen Taunt-Effekt (wird ein anderes Siegel gewaehlt, entfaellt der Taunt). Das Talent "Swift Judgement" setzt die Abklingzeit von Judgement zurueck und macht den naechsten Zauber kostenlos (fuer einen zweiten Taunt-Versuch bei Verfehlen), Judgement selbst hat 1 Minute Abklingzeit. Praezisiert den bereits gemeldeten Punkt "Protection bekommt ein neues Tank-Siegel" (15:04-UTC-Lauf). Quelle: [Wowhead](https://www.wowhead.com/forever/news/paladins-now-have-a-taunt-in-wow-forever-382869) (offiziell von Blizzard bestaetigt laut Wowhead-Bericht).
+
+### 2026-09-17 00:03 UTC
+
+**Hinweis:** WebFetch auf wowhead.com, sportskeeda.com und si.com in diesem Lauf durch die Netzwerk-Policy blockiert; Angaben stammen aus Suchergebnis-Snippets, nicht aus direkt gelesenem Volltext. Der offizielle Beta-Start sowie die Live-Q&A am 17.09. (10:30 Uhr PDT) selbst laufen zum Zeitpunkt dieses Laufs gerade an bzw. stehen unmittelbar bevor; ein inhaltlicher Recap der Q&A lag noch nicht vor.
+
+#### WoW Forever allgemein
+
+- **Neu: Gilneas als besuchbare Zone bestaetigt + Forsaken-Story-Andeutung (Interview, teilweise unsicher):** Laut einem BlizzCon-Interview mit Principal Game Designer Kris Zierhut und Senior Game Designer Michael Nuthals (Sportskeeda) ist Gilneas (im vor-Cataclysm-Zustand) Teil der WoW-Forever-Weltkarte. Auf die Frage nach den Forsaken deutete Zierhut moegliche neue Story-Elemente an ("they might have reasons to welcome the Forsaken"). Ausserdem betonten beide Designer, dass Spieler staerker zur Interaktion mit der Welt/anderen Spielern und zu emergentem Gameplay angeregt werden sollen. **Unsicher:** Volltext des Interviews konnte in diesem Lauf nicht direkt abgerufen werden (Domain blockiert), Angaben stammen nur aus Suchmaschinen-Snippets; Gilneas war zuvor in keinem bisherigen Eintrag genannt. Quelle: [Sportskeeda](https://www.sportskeeda.com/mmo/news-they-might-reasons-welcome-forsaken-wow-forevers-kris-zierhut-michael-nuthals-visiting-gilneas-what-ifs-exclusive).
+
+#### Magier
+
+- **Neu (Zahlenwert-Praezisierung, weiterhin unsicher):** Eine Sekundaerquelle beziffert den Gesamtumfang der Magier-Talentaenderungen erstmals konkret: 6 neue Talente, 1 entferntes Talent; Magier bleibt damit laut dieser Quelle die Klasse mit den geringsten Aenderungen. Arcane/Fire/Frost behalten weiterhin ihre klassischen Rollen. **Unsicher**, ausschliesslich Sekundaerquelle, keine offizielle Bestaetigung. Quelle: [wowtbc.gg](https://wowtbc.gg/warcraftforever/news/what-we-know/).
+
+#### Druide
+
+- **Neu (Detailpraezisierung, weiterhin unsicher):** Sekundaerquellen nennen jetzt Mechanik-Details zum bereits gemeldeten Eclipse-Talent (Balance): "Wrath" verkuerzt die Zauberzeit der naechsten zwei "Starfire"-Zauber, Eclipse selbst kann bis zu vier Ladungen speichern und haelt 15 Sekunden. Fuer Restoration wird zusaetzlich zum bereits gemeldeten "Wild Growth" genannt, dass "Swiftmend" den geheilten Hot-Effekt nicht mehr verbraucht, dafuer aber eine neue Abklingzeit von 15 Sekunden erhaelt. Ausserdem sollen Druiden in WoW Forever erstmals Stangenwaffen (Polearms) fuehren koennen. **Unsicher:** Ausschliesslich Sekundaer-/Guide-Quellen (u. a. classicwow.gg, pewpewshop.pro), keine offizielle Bestaetigung gefunden. Quelle: [classicwow.gg](https://classicwow.gg/forever/guides/druid), [PEWPEWSHOP](https://pewpewshop.pro/wow-boost/blog~druid-in-wow-forever-skyborne-druids-sky-blue-forms-and-the-revamp).
+
+#### Priester
+
+- **Neu (Detailpraezisierung, weiterhin unsicher):** Sekundaerquellen praezisieren, dass "Penance" (Discipline) ein 21-Punkte-Talent ist (offensiv oder heilend nutzbar, bereits gemeldet). Zusaetzlich neu genannt: "Fear Ward" soll kuenftig einem breiteren Kreis von Priestern zugaenglich sein (bisher eingeschraenkt) – aehnliche Lockerung wie beim bereits gemeldeten Wegfall der Untoten-Bindung von "Devouring Plague". **Unsicher**, ausschliesslich Sekundaerquelle, keine offizielle Bestaetigung. Quelle: [wowtbc.gg](https://wowtbc.gg/warcraftforever/news/what-we-know/).
+
+#### Krieger
+
+- **Neu (Zahlenwert-Praezisierung des bereits gemeldeten "Weaponmaster"-Talents, weiterhin unsicher):** Sekundaerquellen nennen jetzt konkrete Bonuswerte fuer "Weaponmaster": Axt/Stangenwaffe +1 % kritische Trefferchance, Streitkolben/Stab 3 % Ruestungsdurchdringung, Schwert 1 % Chance auf eine Extra-Attacke. Die separaten Talente "One-Handed Weapon Specialization" (+2 % Schaden mit Einhandwaffen) und "Two-Handed Weapon Specialization" (3 Raenge, je 1 % Schaden mit Zweihandwaffen) bleiben laut dieser Quelle zusaetzlich zu Weaponmaster bestehen. **Unsicher**, ausschliesslich Sekundaerquelle, keine offizielle Bestaetigung, Zahlenwerte moeglicherweise noch nicht final. Quelle: [classicwow.gg](https://classicwow.gg/forever/guides/warrior).
+
+#### Paladin
+
+- **Neu (Detailpraezisierung, weiterhin unsicher):** Eine Sekundaerquelle nennt eine laengere Dauer fuer Segen-Zauber (Blessings): 1 Stunde statt bisher 10 Minuten. Dieselbe Quelle beziffert die Talentbaum-Ueberarbeitung mit "20 neue, 12 entfernte" Talente – weicht von der bereits gemeldeten Zahlenangabe "20 neue, 25 veraenderte" (15:04-UTC-Lauf) ab; moeglicherweise unterschiedliche Zaehlweise (entfernt vs. veraendert) oder eine der beiden Angaben ist ungenau. **Unsicher**, ausschliesslich Sekundaerquelle, keine offizielle Bestaetigung. Quelle: [wowtbc.gg](https://wowtbc.gg/warcraftforever/news/what-we-know/).
