@@ -158,3 +158,23 @@ Automatisch gepflegter Verlauf bereits gemeldeter News-Punkte zu World of Warcra
 #### Paladin
 
 - **Neu (Detailpraezisierung, weiterhin unsicher):** Eine Sekundaerquelle nennt eine laengere Dauer fuer Segen-Zauber (Blessings): 1 Stunde statt bisher 10 Minuten. Dieselbe Quelle beziffert die Talentbaum-Ueberarbeitung mit "20 neue, 12 entfernte" Talente – weicht von der bereits gemeldeten Zahlenangabe "20 neue, 25 veraenderte" (15:04-UTC-Lauf) ab; moeglicherweise unterschiedliche Zaehlweise (entfernt vs. veraendert) oder eine der beiden Angaben ist ungenau. **Unsicher**, ausschliesslich Sekundaerquelle, keine offizielle Bestaetigung. Quelle: [wowtbc.gg](https://wowtbc.gg/warcraftforever/news/what-we-know/).
+
+### 2026-09-17 01:03 UTC
+
+**Hinweis:** Direktzugriff (WebFetch) auf wowhead.com und icy-veins.com in diesem Lauf weiterhin durch die Netzwerk-Policy blockiert; Angaben stammen aus Suchergebnis-Snippets. Die Live-Q&A (10:30 Uhr PDT) sowie der eigentliche Beta-Start stehen zum Zeitpunkt dieses Laufs unmittelbar bevor bzw. laufen gerade an; ein inhaltlicher Q&A-Recap lag noch nicht vor.
+
+#### WoW Forever allgemein
+
+- **Neu (Ablauf-Praezisierung): Beta startet direkt im Anschluss an die Live-Q&A:** Laut Wowhead ("WoW Forever Beta Launches Immediately After Live Q&A") und Icy Veins ("WoW Forever Beta Goes Live After Blizzard Q&A on September 17") oeffnen die Beta-Server unmittelbar nach Ende der bereits gemeldeten Live-Q&A (Beginn 10:30 Uhr PDT), nicht zu einem separaten, vorab fixierten Uhrzeitpunkt. Praezisiert den bereits gemeldeten Beta-Start-Punkt (13:...- bzw. 15:04-UTC-Lauf). Quelle: [Wowhead](https://www.wowhead.com/forever/news/wow-forever-beta-launches-immediately-after-live-q-a-382949), [Icy Veins](https://www.icy-veins.com/wow-forever/news/wow-forever-beta-goes-live-after-blizzard-qa-on-september-17/).
+
+#### Paladin
+
+- **Neu: Zweites Forsaken-Paladin-Reittier datamined (Level 40, zusaetzlich zum bereits gemeldeten Level-60-"Forsaken Charger"):** Laut Wowhead ("New Forsaken Paladin Mounts Datamined from Forever Beta Client") und Icy Veins wurden aus dem neu zugaenglichen Beta-Client-Datenbestand neben dem bereits gemeldeten Level-60-Klassenquest-Reittier "Forsaken Charger" weitere Forsaken-Paladin-Reittier-Modelle gefunden, darunter ein Reittier fuer Level 40 (Berichten zufolge ein skelettiertes Pferd bzw. eine Widder-Variante mit Schaedel-Motiv). **Unsicher:** Name, genaue Optik und Bezugsweg (Quest vs. Kauf) des Level-40-Reittiers sind laut Quellen noch nicht offiziell von Blizzard bestaetigt; Datamining-Inhalte koennen sich bis zum Release (04.11.2026) noch aendern. Quelle: [Wowhead](https://www.wowhead.com/forever/news/new-forsaken-paladin-mounts-datamined-from-forever-beta-client-382940), [Icy Veins](https://www.icy-veins.com/wow-forever/news/first-look-at-forsaken-paladin-mounts-in-wow-forever/).
+
+#### Priester
+
+- **Neu (Detailpraezisierung, weiterhin unsicher):** Zusaetzlich zum bereits gemeldeten "Penance"-Talent (Discipline) nennen Sekundaerquellen jetzt ein weiteres Discipline-Talent "Renewed Hope": Heilzauber (u. a. Flash Heal, Binding Heal, Heal, Greater Heal, Penance) auf Ziele mit dem "Weakened Soul"-Debuff (Power Word: Shield-Sperre) erhalten dadurch erhoehte kritische Trefferchance und verkuerzen gleichzeitig die verbleibende Dauer von Weakened Soul, sodass frueher erneut geschildet werden kann. **Unsicher:** Talentname und Mechanik entsprechen einem aus spaeteren WoW-Erweiterungen bekannten Priester-Talent gleichen Namens; ob es 1:1 uebernommen oder nur aehnlich benannt wird, ist unklar. Ausschliesslich Sekundaerquellen (u. a. zockify.com, classicwow.gg), keine offizielle Blizzard-Bestaetigung gefunden.
+
+#### Druide
+
+- **Neu (Detailpraezisierung, weiterhin unsicher):** Zusaetzlich zum bereits gemeldeten "Wild Growth"-Kapstein-Talent (Restoration) nennen Sekundaerquellen jetzt ein weiteres neues Restoration-Talent "Gift of the Earthmother": Es senkt die Abklingzeit (Global Cooldown) von Rejuvenation, Swiftmend und Wild Growth um 0,5 Sekunden, was schnellere Heil-Ketten bei verteiltem Schaden oder Bewegung ermoeglichen soll. **Unsicher:** Wie bei "Renewed Hope" beim Priester handelt es sich um einen aus spaeteren WoW-Erweiterungen bekannten Talentnamen; keine offizielle Blizzard-Bestaetigung gefunden. Quelle: [Icy Veins](https://www.icy-veins.com/wow-forever/druid-class-overview).
